@@ -1,0 +1,7 @@
+micronaut:
+  application:
+    name: blackbird
+netty:
+  default:
+    allocator:
+      max-order: 3
